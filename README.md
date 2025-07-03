@@ -1,6 +1,6 @@
 # Excel US Freight Market Dashboard
 
-![project_intro](assets\Project_intro.gif)
+![project_intro](/assets/Project_intro.gif)
 
 ## Introduction
 
@@ -57,7 +57,7 @@ Source link : https://www.bts.gov/faf
 
 
 
-![Total Freight Volume & Value by Trailer Type](assets\Chart1.jpg)
+![Total Freight Volume & Value by Trailer Type](assets/Chart1.jpg)
 
 
 
@@ -71,7 +71,7 @@ Source link : https://www.bts.gov/faf
 
 #### 📦 Top 5 Commodity Shares for Dry Van/Flatbed/Reefer - Doughnut Chart
 
-![Top 5 Commodity Shares for Dry Van/Flatbed/Reefer](assets\Chart2gif.gif)
+![Top 5 Commodity Shares for Dry Van/Flatbed/Reefer](assets/Chart2gif.gif)
 
 🛠️ Excel Features: Used PivotChart’s Doughnut Chart with “Show Values As % of  Grand Total” and added outer data labels for clear percentage display.
 
@@ -86,7 +86,7 @@ Source link : https://www.bts.gov/faf
 
 #### 🗺️ Top 10 Shipping States by Value and Tons - 2024 - Map Chart
 
-![Top 10 Shipping States by Value and Tons](assets\map_chart.gif)
+![Top 10 Shipping States by Value and Tons](assets/map_chart.gif)
 
 🛠️ Excel Features: Used Excel’s filled Map Chart with state-level geocoding and color gradients tied to freight volume or value. Customized with tooltips and state name labels.
 
@@ -123,11 +123,11 @@ Source link : https://www.bts.gov/faf
 
 🍽️ Background Table
 
-![Trailer_type](assets\Trailer_type.jpg)
+![Trailer_type](assets/Trailer_type.jpg)
 
 📉 Dashboard Implementation
 
-![Trailer_type_chart](assets\Trailer_type_chart.gif)
+![Trailer_type_chart](assets/Trailer_type_chart.gif)
 
 #### 🗺️ State Code to Abbreviation Mapping (Power Query Formula)
 
@@ -173,11 +173,11 @@ Record.FieldOrDefault(
 
 🍽️ Background Table
 
-![States](assets\States.jpg)
+![States](assets/States.jpg)
 
 📉 Dashboard Implementation:
 
-![states_map_chart](assets\states_map_chart.gif)
+![states_map_chart](assets/states_map_chart.gif)
 
 ### ✅ Data Validation – Clean Inputs for Freight Filters
 
@@ -197,7 +197,7 @@ By applying validation rules from predefined lists (cleaned via Power Query), th
 
 ### 📊 Example Chart
 
-![data_validation](assets\Data_validation.gif)
+![data_validation](assets/Data_validation.gif)
 
 ## 📦 Conclusion
 
